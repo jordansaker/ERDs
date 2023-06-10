@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T04:29:59.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="5VYDPjKJeJ4X30D_zEDs" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T06:29:23.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="8cFS81vaMkj3T0Bunhlj" version="21.3.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1158" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1405" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,8 +404,8 @@
         <mxCell id="6bvUMzhNfChqPh5dB9FW-141" value="M" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="858" y="720" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6bvUMzhNfChqPh5dB9FW-142" value="LinkedIn Relational Model" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="100" height="40" as="geometry" />
+        <mxCell id="6bvUMzhNfChqPh5dB9FW-142" value="Figure 5: LinkedIn Relational Model" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6bvUMzhNfChqPh5dB9FW-145" value="CONNECTION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="335" width="120" height="60" as="geometry" />
