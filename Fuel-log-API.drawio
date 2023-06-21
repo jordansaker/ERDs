@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T03:42:08.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SUUgtgdUcldqjH1w1QkV" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T03:52:29.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="PAElDqPk1e2VS_qEgQTA" version="21.3.8" type="github">
   <diagram name="Page-1" id="bXm6ZJBDTjJmP4H4rrZE">
     <mxGraphModel dx="1158" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -161,19 +161,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-60" value="Car_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="105" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="v7uv-vrLvc0-VAxoKwnR-61" target="v7uv-vrLvc0-VAxoKwnR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-61" value="make" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="155" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="v7uv-vrLvc0-VAxoKwnR-62" target="v7uv-vrLvc0-VAxoKwnR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-62" value="tank_size" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="205" width="100" height="40" as="geometry" />
+          <mxGeometry x="140" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-65" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="315" width="60" height="30" as="geometry" />
@@ -204,6 +204,12 @@
         </mxCell>
         <mxCell id="v7uv-vrLvc0-VAxoKwnR-78" value="User_car_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="592" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v7uv-vrLvc0-VAxoKwnR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="v7uv-vrLvc0-VAxoKwnR-80" target="v7uv-vrLvc0-VAxoKwnR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v7uv-vrLvc0-VAxoKwnR-80" value="model" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
