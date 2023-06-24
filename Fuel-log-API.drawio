@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:16:38.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SLxhg0pA3RlrKv6GDj_L" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:18:13.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="5zuYdE9wJlhWUJOf--4p" version="21.5.0" type="github">
   <diagram name="Page-1" id="bXm6ZJBDTjJmP4H4rrZE">
-    <mxGraphModel dx="984" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,12 @@
         </mxCell>
         <mxCell id="99hS7H4yQcF4OQNsXOJP-7" value="Car_id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X0agxv42LEqgLx9nFObT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="X0agxv42LEqgLx9nFObT-1" target="v7uv-vrLvc0-VAxoKwnR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X0agxv42LEqgLx9nFObT-1" value="is_admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="555" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
